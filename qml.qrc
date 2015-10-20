@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SnapCamera.qml</file>
+        <file>SnapProfile.qml</file>
+        <file>InstaLogin.qml</file>
+        <file>Network.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>snap.png</file>
+        <file>insta.png</file>
+    </qresource>
+</RCC>
